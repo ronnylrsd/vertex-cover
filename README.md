@@ -1,6 +1,6 @@
 <h1 align="center">Vertex Cover</h1>
 
-<h3 align="center">Projeto da Cadeira de Inteligência Artificial</h3>
+<h3 align="center">Projeto da Cadeira de Análise de Algoritmos</h3>
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,14 +12,9 @@
 
 ## 💻 Projeto
 
-Projeto onde nosso time criou um objeto que estende a classe abstrata Jogador e implementa um método
-jogar. O método jogar recebe um tabuleiro como um conjunto de inteiros onde:
-• 1: indica que posição do tabuleiro foi marcado com X
-• 0: indica que posição do tabuleiro foi marcado com O
-• -1: indica que posição do tabuleiro está disponível
-Já a saída do método da classe abstrata a ser implementada representa a jogada realizada pelo
-seu agente, que trata-se de um vetor de inteiros com duas posições: v[0] indica a linha e v[1] a
-coluna da sua jogada.
+Pesquisar e apresentar uma implementação de metaheurística (inclusive rodar o código na
+hora da apresentação) que resolva o problema selecionado, além de explicar como a
+mesma deve ser adaptada para resolvê-lo.
 
 ## ✨ Tecnologias
 
@@ -52,4 +47,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Projeto desenvolvido a partir de vídeos no Youtube.
+Projeto desenvolvido a partir de vídeos no Youtube para a cadeira de Análise de Algoritmos.
